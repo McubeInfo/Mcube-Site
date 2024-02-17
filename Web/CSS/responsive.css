@@ -1,0 +1,162 @@
+@media (max-width: 1045px) {
+    nav h1 {
+        font-size: 20px;
+    }
+
+    nav img{
+        width: 40px;
+    }
+
+    .services .maindiv{
+        display: grid;
+    }
+
+    .services .subdiv2{
+        width: 100%;
+    }
+
+    .features .flex .maindiv{
+        width: 30%;
+    }
+
+    .application .flex .maindiv{
+        width: 70%;
+    }
+
+    
+    #footer .footer-top .footer-contact strong{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    nav{
+        padding: 8px 8px ;
+    }
+
+    nav h1 {
+        font-size: 13px;
+    }
+
+    nav img{
+        width: 30px;
+    }
+
+    ul{
+        width: 70%;
+    }
+
+    li{
+        font-size: 12px;
+    }
+
+    .services .maindiv{
+        display: grid;
+    }
+
+    .services .subdiv2{
+        width: 100%;
+    }
+
+    .features .flex{
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 50%;
+    }
+
+    .features .flex .maindiv{
+        width: 100%;
+        margin: 5px;
+    }
+
+    .application .flex .maindiv{
+        width: 90%;
+    }
+
+    .application .flex .maindiv{
+        display: grid;
+    }
+
+    #footer{
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 500px) {
+    nav{
+        padding: 8px 10px ;
+    }
+
+    nav h1 {
+        font-size: 16px;
+    }
+
+    nav img{
+        width: 30px;
+    }
+
+    ul{
+        display: none;
+    }
+
+    .intro h1{
+        font-size: 30px;
+    }
+
+    .intro p{
+        text-align: justify;
+
+        max-width: 90%;
+        line-height: 1.5;
+    }
+
+    .services .maindiv{
+        display: grid;
+    }
+
+    .services .subdiv2{
+        width: 100%;
+    }
+
+    .features .flex{
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+    }
+
+    .features .flex .maindiv{
+        width: 100%;
+        margin: 5px;
+    }
+
+    .application .flex .maindiv{
+        width: 90%;
+    }
+
+    .application .flex .maindiv{
+        display: grid;
+    }
+
+    #footer{
+        margin-top: 50px;
+    }
+
+    #footer .row{
+        width: 100%;
+        display: grid;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #footer .copyright{
+        font-size: 15px;
+        display: grid;
+    }
+
+    .contact a{
+        padding: 8px 12px;
+    }
+
+}
