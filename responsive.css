@@ -3,6 +3,10 @@
         font-size: 20px;
     }
 
+    .institute .content h1{
+        font-size: 20px;
+    }
+
     nav img{
         width: 40px;
     }
@@ -35,6 +39,10 @@
     }
 
     nav h1 {
+        font-size: 13px;
+    }
+
+    .institute .content h1{
         font-size: 13px;
     }
 
@@ -90,6 +98,10 @@
 
     nav h1 {
         font-size: 16px;
+    }
+
+    .institute .content h1{
+        font-size: 10px;
     }
 
     nav img{
